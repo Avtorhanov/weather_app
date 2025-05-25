@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+httpx
+aiosqlite
+python-multipart
+pytz
+python-dateutil 

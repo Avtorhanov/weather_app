@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Caches
+.pytest_cache/
+*.log
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# SQLite database (если ты не хочешь хранить файл БД в Git)
+data/weather.db
+
+# Если случайно создалась странная папка вроде "data;C"
+data;C/
+
+# VS Code settings 
+.vscode/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python egg info
+*.egg-info/
+dist/
+build/
+
+# Ignore test results or coverage
+.coverage
+htmlcov/
+*.cover
+
+# Backup files
+*~
+*.bak
+*.swp
