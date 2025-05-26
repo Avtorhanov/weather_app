@@ -12,8 +12,6 @@ venv/
 .env/
 env/
 
-# SQLite database (если ты не хочешь хранить файл БД в Git)
-data/weather.db
 
 # Если случайно создалась странная папка вроде "data;C"
 data;C/
