@@ -15,6 +15,7 @@ env/
 
 # Если случайно создалась странная папка вроде "data;C"
 data;C/
+data.gitceep
 
 # VS Code settings 
 .vscode/
